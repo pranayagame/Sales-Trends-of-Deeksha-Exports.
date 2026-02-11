@@ -1,81 +1,118 @@
-# -Sales-Performance-Analysis-of-Deeksha-Exports-A-Business-Analytics-Approach-
-This project analyzes the sales performance of Deeksha Exports using business analytics tools like Power BI, Excel. It evaluates customer contribution, monthly sales trends, and target vs actual sales to identify growth opportunities and support data-driven decision-making.
-Sales Performance Analysis of Deeksha Exports
-A Business Analytics Approach
-📌 Project Overview
+📊 **Sales Dashboard – Deeksha Exports
+Power BI Business Analytics Project**
 
-This project focuses on analyzing the sales performance of Deeksha Exports Pvt. Ltd. using business analytics techniques. The study aims to understand sales trends, customer contribution, and performance gaps to support effective, data-driven business decisions.
+This project presents an interactive Sales Dashboard developed using Microsoft Power BI for Deeksha Exports Pvt. Ltd. The objective of the project is to analyze sales data and generate meaningful insights related to customer contribution, target vs actual sales performance, and monthly sales trends to support effective business decision-making.
 
-🎯 Objectives
+The dashboard provides a clear and visual understanding of sales performance across customers, months, and countries.
 
-Analyze overall sales performance
 
-Identify top and low-performing customers
+✅ **Objectives (As per PPT)**
 
-Compare target sales with actual sales
+To analyse the contribution of each customer to the total sales of the company in order to identify key clients and their impact on revenue
 
-Analyze monthly and yearly sales trends
+To study the relationship between target sales and actual sales performance and evaluate how effectively sales goals are being met
 
-Identify best and worst performing months
+To analyse monthly sales trends to identify the highest and lowest sales months and understand seasonal or time-based patterns
 
-🧰 Tools & Technologies Used
 
-Microsoft Excel – Data cleaning, organization, and analysis
+🧩 **Key Insights**
 
-Power BI – Interactive dashboards and data visualization
+A few key customers contribute the majority of total sales, making them critical for business growth
 
-📊 Key Analysis Performed
+Achieved sales (773.92M) are lower than target sales (892.99M), indicating a performance gap
 
-Customer-wise sales contribution analysis
+Sales targets were achieved in some months but missed in others, showing inconsistency in performance
 
-Target vs actual sales comparison
+Monthly sales show seasonal variations, with some months performing strongly and others weakly
 
-Month-wise sales trend analysis
+India is the highest contributing country, followed by Germany and Canada
 
-Identification of peak and low sales periods
 
-Performance insights for business improvement
+🔍 **Dashboard Features**
 
-📈 Dashboard Features
+📌 Sum of Achieved Sales
+Displays total achieved sales amount (773.92M)
 
-Interactive slicers for customers and time periods
+📌 Sum of Target Sales
+Shows total target sales (892.99M)
 
-KPI cards for total sales and performance indicators
+📌 Year Filter (2024–2025)
+Allows year-wise sales performance analysis
 
-Trend charts for monthly sales analysis
+📌 Monthly Target vs Achieved Sales
+Clustered bar chart comparing target and actual sales month-wise
 
-Comparative visuals for target vs actual sales
+📌 Country-wise Sales Analysis
+Table and map visual showing achieved sales by country
 
-💡 Key Insights
+📌 Customer-wise Sales Contribution
+Bar chart highlighting top customers based on achieved sales
 
-A small group of customers contributes a significant portion of total sales
+📌 Customer Performance Status
+Donut chart classifying customers as Achieved, Under-Achieved, and Not Applicable
 
-Certain months consistently show strong sales performance
+📌 Monthly Sales Trend
+Line/area chart showing achieved sales trend over time
 
-Gaps between target and actual sales indicate areas for improvement
 
-Data-driven insights help in improving sales strategies
+🔧 **Tools & Technologies**
 
-🏢 Business Impact
+Power BI Desktop – Data visualization and dashboard development
 
-This analysis enables management to:
+Microsoft Excel – Data source and basic data preparation
 
-Monitor sales performance effectively
+DAX – Measures and KPIs
 
-Focus on high-value customers
 
-Improve sales planning and forecasting
+📁 **Included Files**
 
-Support strategic decision-making
+sales_dashboard.pbix – Power BI dashboard file
 
-📂 Project Structure
-├── Data (Excel files)
-├── Power BI Dashboard (.pbix)
-├── Screenshots
-├── Reports (PDF/Word)
-└── README.md
+sales_dashboard.png – Dashboard screenshot
 
-👤 Author
+sales_data.xlsx – Sales dataset
 
-Pranay Agame
-MBA – Business Analytics
+
+🧠 **Skills Demonstrated**
+
+Sales data analysis using Power BI
+
+Customer contribution analysis
+
+Target vs actual performance analysis
+
+Monthly and seasonal trend analysis
+
+KPI creation using DAX
+
+Business storytelling through dashboards
+
+
+🚀 **Business Use Case**
+
+This dashboard helps:
+
+Management understand overall sales performance
+
+Sales teams focus on key customers
+
+Business analysts identify performance gaps and trends
+
+Decision-makers improve sales planning and forecasting
+
+
+📎 **Preview**
+
+📊 Sales Dashboard – Deeksha Exports
+<img width="1291" height="728" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/d0068d85-41ac-4251-95db-a2e29e7f8a1b" />
+
+
+🔗 **Connect with Me**
+
+If you like this project or want to discuss analytics and dashboard design:
+
+🌐 LinkedIn: https://www.linkedin.com/in/pranay-agame-958932251
+
+📩 Email: agamepranay3@gmail.com
+
+💻 GitHub: https://github.com/pranayagame
